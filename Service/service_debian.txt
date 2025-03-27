@@ -1,0 +1,11 @@
+# Para que a coleta rode ao ligar a console:
+- coleta.service
+- deve estar localizado em: /lib/systemd/system/
+- /lib/systemd/system/coleta.service
+
+# Comandos do service de Coleta:
+- sudo systemctl --full enable coleta.service (para ativar o serviço de coleta- para iniciar sozinho cada vez que o sistema é reiniciado)
+- sudo systemctl --full start coleta.service (para iniciar o serviço de coleta) 
+- sudo systemctl stop coleta.service (para parar o serviço de coleta)
+- sudo systemctl disable coleta.service (para desativar o serviço de coleta)
+- sudo systemctl status coleta.service (para verificar o status do serviço de coleta)

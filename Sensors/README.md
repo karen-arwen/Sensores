@@ -1,0 +1,3 @@
+<b><h4>SENSORS</h4></b>
+O diretório **Sensors** é onde está guardado os códigos referentes ao funcionamento de todos os sensores aqui encontrados, sendo eles:  <b>SHT31, MS5803, DS18B20 e EME-BARO5803.</b> 
+Recebendo os dados de Temperatura, Pressão e Umidade (Variando o recebimento de dados com a funcionalidade de cada sensor). Dentro desse diretório, encontramos os códigos na linguagem Python e C.

@@ -1,0 +1,11 @@
+[Unit]
+Description=Servico de coleta Projeto
+After=network.target
+
+[Service]
+ExecStart=python3 /home/tecnico/agsolve/projeto-console/coleta.py
+Restart=always
+RestartSec=1
+
+[Install]
+WantedBy=multi-user.target

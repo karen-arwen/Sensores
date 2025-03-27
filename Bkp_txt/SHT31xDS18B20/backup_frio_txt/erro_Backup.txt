@@ -1,0 +1,4 @@
+28/11/2024   17:05:52   ERRO: ('Connection aborted.', OSError(101, 'Network is unreachable'))
+2024-11-29   07:44:36   ERRO: CRC mismatch
+2024-11-29   07:44:49   ERRO: CRC mismatch
+2024-11-29   07:44:56   ERRO: [Errno 121] Remote I/O error

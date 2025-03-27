@@ -1,0 +1,1 @@
+Data          Hora     Temp_atual   Temp_med   Temp_min   Temp_max   Umi_atual   Umi_med   Umi_min   Umi_max
