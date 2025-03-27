@@ -1,4 +1,4 @@
-# agconsole-sensors
+# sensores
 <table>
  <tr>
   <td>   
